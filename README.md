@@ -1,1 +1,1 @@
-# Sccientific-Calculator-By-Java
+# Scientific-Calculator-By-Java
